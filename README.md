@@ -4,4 +4,4 @@ This webpage was created to help increase your business brands reach and/or busi
 ## Links
 
 ## Images
-![Horiseon](./Develop/assets/images/Horiseon_screenGrab.png)
+![Horiseon](./assets/images/Horiseon_screenGrab.png)
