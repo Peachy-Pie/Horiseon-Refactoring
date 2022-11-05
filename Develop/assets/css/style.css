@@ -33,7 +33,7 @@ body {
     font-size: 20px;
 }
 
-.header ul li {
+.header li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -52,27 +52,20 @@ body {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+.content h2 {
+	margin-bottom: 20px;
+  font-size: 36px;
+}
+
 .benefits {
     margin-right: 20px;
-    padding: 20px;
-		font-size: 16px;
-		text-align: left;
+    padding: 15px;
     clear: both;
     float: right;
     width: 20%;
@@ -84,11 +77,10 @@ body {
 
 .benefits p {
 margin-bottom: 32px;
-
 }
 
 .benefits h3 {
-    margin-bottom: 32px;
+    margin-bottom: 15px;
     text-align: center;
 }
 
@@ -127,29 +119,20 @@ margin-bottom: 32px;
 
 .search-engine-optimization img {
     max-height: 200px;
+		float:left;
+		margin-right: 25px;
 }
 
 .online-reputation-management img {
     max-height: 200px;
+		float: right;
+		margin-left: 25px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+		float: left;
+		margin-right: 25px;
 }
 
 .footer {
@@ -157,8 +140,4 @@ margin-bottom: 32px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
 }
