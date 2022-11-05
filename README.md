@@ -3,6 +3,7 @@
 This webpage was created to help increase your business brands reach and/or business you generate. I refactored and cleaned up the css on this webpage.
 
 ## Links
+<base target="_blank" />
 [Horiseon Brand Managment](https://peachy-pie.github.io/Horiseon-Refactoring/)
 
 ## Images
