@@ -1,7 +1,9 @@
-# Horiseon - Brand Management
+# Horiseon Refactor
 ## Description
-This webpage was created to help increase your business brands reach and/or business you generate.
+This webpage was created to help increase your business brands reach and/or business you generate. I refactored and cleaned up the css on this webpage.
+
 ## Links
+[Horiseon Brand Managemnt](https://peachy-pie.github.io/Horiseon-Refactoring/)
 
 ## Images
-![Horiseon](./Develop/assets/images/Horiseon_screenGrab.png)
+![Horiseon](./assets/images/Horiseon_screenGrab.png)
